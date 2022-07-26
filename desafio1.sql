@@ -76,15 +76,15 @@ VALUES
 INSERT INTO SpotifyClone.Users (user_age, user_name, subscription_date, subscription_id)
 VALUES
   (23, 'Thati', '2019-10-20', 1),
-  (35, 'Cintia', '2017-12-30', 4),
-  (20, 'Bill', '2019-06-05', 2),
-  (45, 'Roger', '2020-05-13', 3),
-  (58, 'Norman', '2017-02-17', 3),
-  (33, 'Patrick', '2017-01-06', 4),
-  (26, 'Vivian', '2018-01-05', 2),
-  (19, 'Carol', '2018-02-14', 2),
+  (35, 'Cintia', '2017-12-30', 2),
+  (20, 'Bill', '2019-06-05', 3),
+  (45, 'Roger', '2020-05-13', 4),
+  (58, 'Norman', '2017-02-17', 4),
+  (33, 'Patrick', '2017-01-06', 2),
+  (26, 'Vivian', '2018-01-05', 3),
+  (19, 'Carol', '2018-02-14', 3),
   (42, 'Angelina', '2018-04-29', 2),
-  (46, 'Paul', '2017-01-17', 4);
+  (46, 'Paul', '2017-01-17', 2);
  
 INSERT INTO SpotifyClone.Artist (artist)
 VALUES
